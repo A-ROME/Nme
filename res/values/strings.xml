@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NUEVO</string>
+    <string name="desc"></string>
+    <string name="signup">SIGN IN</string>
+    <string name="user">user</string>
+    <string name="password">password</string>
+</resources>
